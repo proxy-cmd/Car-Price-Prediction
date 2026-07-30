@@ -1,5 +1,4 @@
 # 🚗 Car Price Prediction with Machine Learning
-**CodeAlpha Data Science Internship - Task 3**
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange.svg)
@@ -147,4 +146,3 @@ CodeAlpha_CarPricePrediction/
 ```
 
 ---
-*Created as part of CodeAlpha Data Science Internship Task 3.*
